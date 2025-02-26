@@ -1,8 +1,8 @@
 # -Crime-Against-Women-Analysis
-#Overview
+# Overview
 This Power BI dashboard provides an interactive visualization of state-wise trends in crimes against women in India from 2001 to 2021. It includes key metrics, trends, and insights into different categories of crimes, helping to analyze and understand patterns over the years.
 
-#Dashboard Features
+# Dashboard Features
 1. Overall Crime Against Women
 A KPI metric displaying the total number of reported crimes against women (5M).
 2. Top States by Crime Incidents Against Women
@@ -21,26 +21,26 @@ Sum of Domestic Violence Cases: 2M
 Sum of Dowry Deaths: 159K
 Sum of Women Trafficking Cases: 21K
 
-#Data Sources
+# Data Sources
 CrimesOnWomenData: Contains raw data related to different categories of crimes against women.
 STATEWISE: Provides state-wise aggregated crime data.
 
-#Usage
+# Usage
 Filters and Interactivity: Users can apply filters to analyze specific time periods or states.
 Comparative Analysis: Helps in understanding which states report higher crime rates and how trends have evolved.
 Decision-Making: Useful for researchers, policymakers, and law enforcement agencies for crime prevention strategies.
-#Technology Used
+# Technology Used
 Power BI for data visualization
 Data Cleaning & Transformation using Power Query
 DAX for calculations and KPI metrics
 
-#Future Improvements
+# Future Improvements
 Integration of geospatial visualizations for a more interactive state-wise analysis.
 Inclusion of demographic factors (population, literacy rate, etc.) to analyze crime correlation.
 Predictive Analytics using machine learning to forecast future crime trends.
 
-#Author
+# Author
 Sharon Vitekar
 
-#License
+# License
 This dashboard is for educational and analytical purposes only. The data used is assumed to be sourced from official government records or reports.
